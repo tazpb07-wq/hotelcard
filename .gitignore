@@ -31,6 +31,9 @@ test-old-project.ps1
 test-aproximacao.mjs
 ai-test-*.json
 
+# Supabase CLI local temp files
+supabase/.temp/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
