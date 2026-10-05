@@ -1,0 +1,1 @@
+ALTER TABLE public.entry_payment_submissions ADD COLUMN IF NOT EXISTS complement text NULL;

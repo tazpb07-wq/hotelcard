@@ -1,0 +1,7 @@
+project_id = "igdoufbvtqfofbvyowdi"
+
+[functions.admin-reset-password]
+verify_jwt = false
+
+[functions.generate-seasonal-rates]
+verify_jwt = false
